@@ -1,4 +1,5 @@
 import { describe, it, expect } from 'vitest';
+import { add } from '../src/about.js';
 
 describe('About this test suite', () => {
     it('should pass', () => {
